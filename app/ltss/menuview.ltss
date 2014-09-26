@@ -1,0 +1,40 @@
+"#menuView":{
+    layout: 'vertical',
+    left: 0,
+    width: Alloy.Globals.jolicode.menudrawer.width,
+    backgroundColor: '#0A7ABF',
+    zIndex: 100
+}
+
+".menuStatusBar[platform=ios]": {
+    height: 20
+}
+
+".menuTable":{
+    separatorStyle:'NONE',
+    separatorColor: 'transparent',
+    backgroundColor:'transparent'
+}
+    ".tableRow":{
+        height: '50dp'
+    }
+        "#rowContainer":{
+            height: '30dp',
+            layout:'horizontal'
+        }
+            ".rowIcon":{
+                left: 5,
+                top: 7,
+                width: "20dp",
+                height: "20dp"
+            }
+            ".rowLabel":{
+                top: 7,
+                left: 10,
+                height: "20dp",
+                font:{
+                    fontSize: "15dp"
+                },
+                color: "#fff"
+
+            }

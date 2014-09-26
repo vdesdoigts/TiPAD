@@ -1,0 +1,11 @@
+".navbar-menu-button": {
+    backgroundImage: '/images/button-burger.png'
+}
+".navbar-menu-button[platform=android]": {
+    width: 48,
+    height: 48,
+}
+".navbar-menu-button[platform=ios]": {
+    width: 44,
+    height: 44,
+}

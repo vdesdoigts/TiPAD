@@ -1,0 +1,5 @@
+<Alloy>
+    <View id="mainView">
+        <Widget src="com.jolicode.pageflow" id="pageflow"/>
+    </View>
+</Alloy>

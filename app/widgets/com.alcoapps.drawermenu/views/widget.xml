@@ -1,0 +1,9 @@
+<Alloy>
+
+	<View id="drawermenuview" platform="ios"></View>
+
+	<View id="drawermainview"></View>
+
+    <View id="drawermenuview" platform="android"></View>
+
+</Alloy>
