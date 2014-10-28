@@ -18,5 +18,6 @@ This is an alloy bootstrap project with
     $ git clone https://github.com/vdesdoigts/TiPAD TiPAD
     $ cd TiPAD
     $ npm install
+    $ alloy install plugin
     $ grunt
     ```

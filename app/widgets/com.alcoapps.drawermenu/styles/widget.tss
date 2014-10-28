@@ -1,0 +1,11 @@
+"#drawermenuview": {
+    backgroundColor:"#0A7ABF"
+}
+"#drawermenuview[platform=android]": {
+	left: Alloy.Globals.jolicode.menudrawer.right,
+    bottom: 0,
+	width: Alloy.Globals.jolicode.menudrawer.width,
+    height: Alloy.Globals.jolicode.menudrawer.height,
+}
+
+
